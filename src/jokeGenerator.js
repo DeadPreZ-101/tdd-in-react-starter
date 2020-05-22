@@ -1,6 +1,6 @@
 import React from "react";
 import axios from "axios";
-import Joke from "./joke";
+
 
 export default class JokeGenerator extends React.Component {
   state = {
